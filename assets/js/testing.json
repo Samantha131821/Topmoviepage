@@ -2740,3 +2740,1991 @@
     ],
     "errorMessage": ""
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "items": [
+        {
+            "id": "tt1630029",
+            "rank": "1",
+            "title": "Avatar: The Way of Water",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_Ratio0.7015_AL_.jpg",
+            "weekend": "$16.0M",
+            "gross": "$620.8M",
+            "weeks": "7"
+        },
+        {
+            "id": "tt3915174",
+            "rank": "2",
+            "title": "Puss in Boots: The Last Wish",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjMyMDBjMGUtNDUzZi00N2MwLTg1MjItZTk2MDE1OTZmNTYxXkEyXkFqcGdeQXVyMTQ5NjA0NDM0._V1_Ratio0.6716_AL_.jpg",
+            "weekend": "$10.5M",
+            "gross": "$140.7M",
+            "weeks": "6"
+        },
+        {
+            "id": "tt12844910",
+            "rank": "3",
+            "title": "Pathaan",
+            "image": "https://m.media-amazon.com/images/M/MV5BM2QzM2JiNTMtYjU4Ny00MDZkLTk3MmUtYTRjMzVkZGJlNmYyXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_Ratio0.7313_AL_.jpg",
+            "weekend": "$6.9M",
+            "gross": "$9.5M",
+            "weeks": "1"
+        },
+        {
+            "id": "tt7405458",
+            "rank": "4",
+            "title": "A Man Called Otto",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzg3OTEzMTgtYWU0OC00YTI0LWIxOTAtNmRkNTc0Nzg2YWU1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio0.7910_AL_.jpg",
+            "weekend": "$6.7M",
+            "gross": "$46.0M",
+            "weeks": "5"
+        },
+        {
+            "id": "tt8760708",
+            "rank": "5",
+            "title": "M3GAN",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDk4MTdhYzEtODk3OS00ZDBjLWFhNTQtMDI2ODdjNzQzZTA3XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_Ratio0.6716_AL_.jpg",
+            "weekend": "$6.3M",
+            "gross": "$82.2M",
+            "weeks": "4"
+        },
+        {
+            "id": "tt10855768",
+            "rank": "6",
+            "title": "Missing",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzI3MmU1NjQtZmM2ZC00Y2NkLWFhMDMtZmVhYTc1NTFjZTFhXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_Ratio0.7910_AL_.jpg",
+            "weekend": "$5.7M",
+            "gross": "$17.6M",
+            "weeks": "2"
+        },
+        {
+            "id": "tt5884796",
+            "rank": "7",
+            "title": "Plane",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDc4MzVkNzYtZTRiZC00ODYwLWJjZmMtMDIyNjQ1M2M1OGM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio0.6716_AL_.jpg",
+            "weekend": "$3.8M",
+            "gross": "$25.4M",
+            "weeks": "3"
+        },
+        {
+            "id": "tt16174868",
+            "rank": "8",
+            "title": "Left Behind: Rise of the Antichrist",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzQzNDUxZjgtYjZkZS00MWI1LTkyN2UtYmFlM2UyYjNhYjhlXkEyXkFqcGdeQXVyMTkwMjkyMDQ@._V1_Ratio0.7612_AL_.jpg",
+            "weekend": "$2.6M",
+            "gross": "$3.2M",
+            "weeks": "1"
+        },
+        {
+            "id": "tt10365998",
+            "rank": "9",
+            "title": "Infinity Pool",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDQxZTY0ZDItY2Y0Yy00OTIzLTkwYTgtNmNkODhiYTk4MzUwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6716_AL_.jpg",
+            "weekend": "$2.5M",
+            "gross": "$2.5M",
+            "weeks": "1"
+        },
+        {
+            "id": "tt13539646",
+            "rank": "10",
+            "title": "The Wandering Earth 2",
+            "image": "https://m.media-amazon.com/images/M/MV5BN2IzY2E2MTQtNTMxMy00YTJjLTkzYTEtYzAyM2VlYjFjZDQzXkEyXkFqcGdeQXVyMTI5ODA1OTU0._V1_Ratio0.6716_AL_.jpg",
+            "weekend": "$1.4M",
+            "gross": "$3.0M",
+            "weeks": "2"
+        }
+    ],
+    "errorMessage": ""
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "motd": "Welcome to the AMC Theatres API. It's currently 2/5/2023 11:28:16 PM",
+    "_links": {
+        "self": {
+            "href": "https://api.amctheatres.com/",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/attributes": {
+            "href": "https://api.amctheatres.com/v1/attributes",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.amctheatres.com/v2/movies/{movie-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/movies": {
+            "href": "https://api.amctheatres.com/v2/movies",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/now-playing-movies": {
+            "href": "https://api.amctheatres.com/v2/movies/views/now-playing",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/coming-soon-movies": {
+            "href": "https://api.amctheatres.com/v2/movies/views/coming-soon",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/advance-movies": {
+            "href": "https://api.amctheatres.com/v2/movies/views/advance",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/active-movies": {
+            "href": "https://api.amctheatres.com/v2/movies/views/active",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/all-active-movies": {
+            "href": "https://api.amctheatres.com/v2/movies/views/all/active",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/top-10-grossing-movies": {
+            "href": "https://api.amctheatres.com/v2/movies/views/top-10-grossing",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/locations": {
+            "href": "https://api.amctheatres.com/v2/locations?longitude={longitude}&latitude={latitude}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/location-suggestions": {
+            "href": "https://api.amctheatres.com/v2/location-suggestions?query={query}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/showtimes": {
+            "href": "https://api.amctheatres.com/v2/theatres/{theatre-id}/showtimes/{date}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/showtime": {
+            "href": "https://api.amctheatres.com/v2/showtimes/{showtime-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/earliest-showtime": {
+            "href": "https://api.amctheatres.com/v2/theatres/{theatre-id}/movies/{movie-id}/earliest-showtime",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/showtimes/embargoed": {
+            "href": "https://api.amctheatres.com/v2/theatres/{theatre-id}/showtimes/{date}/views/embargoed",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/theatres": {
+            "href": "https://api.amctheatres.com/v2/theatres",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.amctheatres.com/v2/theatres/{theatre-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/theatre-list-builder": {
+            "href": "https://api.amctheatres.com/v2/theatres/views/list-builder",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/theatres-now-playing-wwm-release-number": {
+            "href": "https://api.amctheatres.com/v2/theatres/views/now-playing/wwm-release-number/{wwm-release-number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/content-types": {
+            "href": "https://api.amctheatres.com/v2/media/{media-type}/content-types",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/media-sizes": {
+            "href": "https://api.amctheatres.com/v2/media/{media-type}/sizes",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/medium": {
+            "href": "https://api.amctheatres.com/v2/media/{media-type}/{media-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/media": {
+            "href": "https://api.amctheatres.com/v2/media/{media-type}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/expired-videos": {
+            "href": "https://api.amctheatres.com/v2/media/videos/views/expired",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/orders": {
+            "href": "https://api.amctheatres.com/v3/orders",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/order": {
+            "href": "https://api.amctheatres.com/v3/orders/{order-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/order-email-lookup": {
+            "href": "https://api.amctheatres.com/v3/orders/{order-id}/email-{email}/",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/account-orders": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/{amc-account-id}/orders",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/virtual-gift-cards": {
+            "href": "https://api.amctheatres.com/v3/virtual-gift-cards/token-{token}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/gift-card": {
+            "href": "https://api.amctheatres.com/v3/gift-cards/{number}/{pin}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/gift-card-passbook": {
+            "href": "https://api.amctheatres.com/v3/gift-cards/{number}/{pin}/passbook",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/gift-card-passbook-by-token": {
+            "href": "https://api.amctheatres.com/v3/gift-cards/gift-card-{token}/passbook",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/qr-code": {
+            "href": "https://api.amctheatres.com/v3/qr-codes/{qr-code-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/code128": {
+            "href": "https://api.amctheatres.com/v3/code128/{encryptedReferenceId}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/wallet": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/{amc-account-id}/wallet",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/wallet": {
+            "href": "https://api.amctheatres.com/v4/amc-accounts/{amc-account-id}/wallet",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-cards": {
+            "href": "https://api.amctheatres.com/v3/loyalty-cards/{number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/product": {
+            "href": "https://api.amctheatres.com/v3/products/{sku}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/products": {
+            "href": "https://api.amctheatres.com/v3/products/{sku}/theatres/{theatreNumber}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/voucher-products": {
+            "href": "https://api.amctheatres.com/v3/products/vouchers",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/theatre-subscriptions": {
+            "href": "https://api.amctheatres.com/v3/theatres/{theatreNumber}/products/subscriptions",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/order-summaries": {
+            "href": "https://api.amctheatres.com/v3/order-summaries",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/markets": {
+            "href": "https://api.amctheatres.com/v1/markets",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/states": {
+            "href": "https://api.amctheatres.com/v1/states",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/state": {
+            "href": "https://api.amctheatres.com/v1/states/{state-slug}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/reminder": {
+            "href": "https://api.amctheatres.com/v1/amc-accounts/{amc-account-id}/reminders/{movie-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/reminders": {
+            "href": "https://api.amctheatres.com/v1/amc-accounts/{amc-account-id}/reminders",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/reminders-not-in-theatres": {
+            "href": "https://api.amctheatres.com/v1/amc-accounts/{amc-account-id}/reminders/views/not-in-theatres",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/reminders-coming-soon": {
+            "href": "https://api.amctheatres.com/v1/amc-accounts/{amc-account-id}/reminders/views/coming-soon",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/reminders-now-playing": {
+            "href": "https://api.amctheatres.com/v1/amc-accounts/{amc-account-id}/reminders/views/now-playing",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/subscriptions": {
+            "href": "https://api.amctheatres.com/v2/subscriptions",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/subscription-enrollment": {
+            "href": "https://api.amctheatres.com/v2/subscriptions/{subscription-name}/{channel-type}/{contact-identifier}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/authentication-oauth": {
+            "href": "https://api.amctheatres.com/v2/authentication/oauth",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/authentication-basic": {
+            "href": "https://api.amctheatres.com/v2/authentication/basic",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/password-reset": {
+            "href": "https://api.amctheatres.com/v2/amc-accounts/email-{email}/password-resets",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/password-change": {
+            "href": "https://api.amctheatres.com/v2/password-changes",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/account-providers": {
+            "href": "https://api.amctheatres.com/v2/providers",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/current-alias": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/{amc-account-id}/aliases/current",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/alias": {
+            "href": "https://api.amctheatres.com/v3/aliases/{name}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/product-subscription-cancellation-reasons": {
+            "href": "https://api.amctheatres.com/v2/product-subscriptions/cancellation-reasons",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/amc-account/product-subscription-premiere-enroll": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/{amc-account-id}/product-subscriptions/PREMIERE",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/product-subscriptions-terms-and-conditions": {
+            "href": "https://api.amctheatres.com/v3/product-subscriptions/{product-type-code}/theatres/{theatre-id}/terms-and-conditions/latest",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/product-subscription-by-card": {
+            "href": "https://api.amctheatres.com/v3/loyalty-cards/{loyalty-card-number}/product-subscriptions",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/product-subscription-transfer-eligibility": {
+            "href": "https://api.amctheatres.com/v3/loyalty-cards/{loyalty-card-number}/theatres/{theatre-id}/transfer-eligibility",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/product-subscription-discount-eligibility": {
+            "href": "https://api.amctheatres.com/v3/loyalty-cards/{loyalty-card-number}/discount-eligibility",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/product-subscription-cancellation-reasons": {
+            "href": "https://api.amctheatres.com/v3/product-subscriptions/cancellation-reasons",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-account": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/{amc-account-id}/loyalty",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/loyalty-account": {
+            "href": "https://api.amctheatres.com/v4/amc-accounts/{amc-account-id}/loyalty",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/email-address": {
+            "href": "https://api.amctheatres.com/v4/email-addresses/{email-address}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-card-validations": {
+            "href": "https://api.amctheatres.com/v3/loyalty-cards/validations",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v4/loyalty-card-validations": {
+            "href": "https://api.amctheatres.com/v4/loyalty-cards/validations",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/email-address-by-card-number": {
+            "href": "https://api.amctheatres.com/v3/email-addresses?card-number={card-number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/email-address-by-card-number": {
+            "href": "https://api.amctheatres.com/v4/email-addresses?card-number={card-number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/stub": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/{amc-account-id}/loyalty/stubs/{sequence}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/stub": {
+            "href": "https://api.amctheatres.com/v4/amc-accounts/{amc-account-id}/loyalty/stubs/{sequence}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/stubs": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/{amc-account-id}/loyalty/stubs?page-number={page-number}&page-size={page-size}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/stubs": {
+            "href": "https://api.amctheatres.com/v4/amc-accounts/{amc-account-id}/loyalty/stubs?page-number={page-number}&page-size={page-size}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-account-qr-code": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/{amc-account-id}/loyalty/qr-code",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/loyalty-account-qr-code": {
+            "href": "https://api.amctheatres.com/v4/amc-accounts/{amc-account-id}/loyalty/qr-code",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-account-jwt": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/{amc-account-id}/loyalty/jwt",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/loyalty-account-jwt": {
+            "href": "https://api.amctheatres.com/v4/amc-accounts/{amc-account-id}/loyalty/jwt",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-card": {
+            "href": "https://api.amctheatres.com/v3/loyalty-cards/{number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/loyalty-card": {
+            "href": "https://api.amctheatres.com/v4/loyalty-cards/{number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/loyalty-tiers": {
+            "href": "https://api.amctheatres.com/v4/loyalty-tiers",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/all-concessions": {
+            "href": "https://api.amctheatres.com/v1/concessions",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/concession": {
+            "href": "https://api.amctheatres.com/v1/concessions/{theatre-product-assignment-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/concessions": {
+            "href": "https://api.amctheatres.com/v1/theatres/{theatre-id}/concessions/",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/theatre-concession": {
+            "href": "https://api.amctheatres.com/v1/theatres/{theatre-id}/concessions/{concession-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movie-lists": {
+            "href": "https://api.amctheatres.com/v1/movie-lists",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/events": {
+            "href": "https://api.amctheatres.com/v1/event-booking/events",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/events/{event-id}": {
+            "href": "https://api.amctheatres.com/v1/event-booking/events/{event-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/organizations": {
+            "href": "https://api.amctheatres.com/v1/event-booking/organizations",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/organizations/{organization-id}": {
+            "href": "https://api.amctheatres.com/v1/event-booking/organizations/{organization-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/contacts": {
+            "href": "https://api.amctheatres.com/v1/event-booking/contacts",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/contacts/{contact-id}": {
+            "href": "https://api.amctheatres.com/v1/event-booking/contacts/{contact-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/theatres": {
+            "href": "https://api.amctheatres.com/v1/event-booking/theatres",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/theatres/{theatre-id}": {
+            "href": "https://api.amctheatres.com/v1/event-booking/theatres/{theatre-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-items": {
+            "href": "https://api.amctheatres.com/v1/event-booking/event-items",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-items/{event-item-id}": {
+            "href": "https://api.amctheatres.com/v1/event-booking/event-items/{event-item-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/dmas": {
+            "href": "https://api.amctheatres.com/v1/event-booking/dmas",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/dmas/suggestions": {
+            "href": "https://api.amctheatres.com/v1/event-booking/dmas/suggestions?q={query}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/theatres/suggestions": {
+            "href": "https://api.amctheatres.com/v1/event-booking/theatres/suggestions?q={query}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/title-traits": {
+            "href": "https://api.amctheatres.com/v1/event-booking/title-traits",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/show-flow-types": {
+            "href": "https://api.amctheatres.com/v1/event-booking/show-flow-types",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-statuses": {
+            "href": "https://api.amctheatres.com/v1/event-booking/event-statuses",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-payment-statuses": {
+            "href": "https://api.amctheatres.com/v1/event-booking/event-payment-statuses",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-subtypes": {
+            "href": "https://api.amctheatres.com/v1/event-booking/event-subtypes",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-types": {
+            "href": "https://api.amctheatres.com/v1/event-booking/event-types",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/dayparts": {
+            "href": "https://api.amctheatres.com/v1/event-booking/dayparts",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/billing-line-item-types": {
+            "href": "https://api.amctheatres.com/v1/event-booking/billing-line-item-types",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-item-categories": {
+            "href": "https://api.amctheatres.com/v1/event-booking/event-item-categories",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-contact-role-types": {
+            "href": "https://api.amctheatres.com/v1/event-booking/event-contact-role-types",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/countries": {
+            "href": "https://api.amctheatres.com/v1/event-booking/countries",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/document-types": {
+            "href": "https://api.amctheatres.com/v1/event-booking/document-types",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-allowed-statuses": {
+            "href": "https://api.amctheatres.com/v1/event-booking/event-allowed-statuses",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/film-booking": {
+            "href": "https://api.amctheatres.com/v1/event-booking/film-booking?title-id={titleId}&theatre-ids={theatreIds}&dma-ids={dmaIds}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/location-event-statuses": {
+            "href": "https://api.amctheatres.com/v1/event-booking/location-event-statuses",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/states": {
+            "href": "https://api.amctheatres.com/v1/event-booking/states",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/titles/suggestions": {
+            "href": "https://api.amctheatres.com/v1/event-booking/titles/suggestions?q={query}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movie-lists/views/NowPlaying": {
+            "href": "https://api.amctheatres.com/v1/movie-lists/views/NowPlaying",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movie-lists/views/AdvanceTickets": {
+            "href": "https://api.amctheatres.com/v1/movie-lists/views/AdvanceTickets",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movie-lists/views/ComingSoon": {
+            "href": "https://api.amctheatres.com/v1/movie-lists/views/ComingSoon",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movie-list": {
+            "href": "https://api.amctheatres.com/v1/movie-lists/{movieListId}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/concessions-categories": {
+            "href": "https://api.amctheatres.com/v1/theatres/{theatre-id}/concessions/categories",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/concessions-pickup-times": {
+            "href": "https://api.amctheatres.com/v1/theatres/{theatre-id}/concessions/pickup-times/{year}/{month}/{day}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/concessions-pickup-times-by-showtime": {
+            "href": "https://api.amctheatres.com/v1/showtimes/{showtime-id}/concession-pickup-times",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/concessions-delivery-locations": {
+            "href": "https://api.amctheatres.com/v1/theatres/{theatre-id}/concessions/delivery-locations/{year}/{month}/{day}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/concessions-delivery-times": {
+            "href": "https://api.amctheatres.com/v1/showtimes/{showtime-id}/concession-delivery-times",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/amc-accounts": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/amc-account": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/{account-identifier}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/terms-and-conditions": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/loyalty/terms-and-conditions/latest/{membershipType}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/terms-and-conditions": {
+            "href": "https://api.amctheatres.com/v4/amc-accounts/loyalty/terms-and-conditions/latest/{membership-type}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/amc-account/synchronize": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/{account-identifier}/synchronize",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/subscriber-profile/synchronize": {
+            "href": "https://api.amctheatres.com/v3/subscriber-profiles/{profile-id}/synchronize",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/subscriptions/synchronize": {
+            "href": "https://api.amctheatres.com/v2/subscriptions/synchronize/{email}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/subscriber-profiles": {
+            "href": "https://api.amctheatres.com/v2/subscriber-profiles",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/subscriber-profiles/ids": {
+            "href": "https://api.amctheatres.com/v3/subscriber-profiles/ids",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/movies/ratings": {
+            "href": "https://api.amctheatres.com/v1/movies/{movie-id}/ratings",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movies/peetimes": {
+            "href": "https://api.amctheatres.com/v1/movies/{movie-id}/peetimes",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movies/peetime": {
+            "href": "https://api.amctheatres.com/v1/movies/{movie-id}/peetimes/{pee-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/sms-messages": {
+            "href": "https://api.amctheatres.com/v1/sms-messages",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/sms-template": {
+            "href": "https://api.amctheatres.com//v1/sms-templates/{template-name}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/sms-templates": {
+            "href": "https://api.amctheatres.com//v1/sms-templates",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/amc-account/passbook": {
+            "href": "https://api.amctheatres.com/v1/amc-accounts/{amc-account-id}/passbook",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/exceptions": {
+            "href": "https://api.amctheatres.com/v1/exceptions",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/logs": {
+            "href": "https://api.amctheatres.com/v1/logs",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/devices": {
+            "href": "https://api.amctheatres.com/v1/devices/{device-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/convenience-fees": {
+            "href": "https://api.amctheatres.com/v2/convenience-fees",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/fee-waiver": {
+            "href": "https://api.amctheatres.com/v1/fee-waiver",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/fee-waiver": {
+            "href": "https://api.amctheatres.com/v2/fee-waiver",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/webhook-events": {
+            "href": "https://api.amctheatres.com/v1/webhook-events",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/webhooks": {
+            "href": "https://api.amctheatres.com/v1/webhooks",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/cast-crew": {
+            "href": "https://api.amctheatres.com/v1/movie/{movie-id}/cast-crew",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/search-result-types": {
+            "href": "https://api.amctheatres.com/v1/search/result-types",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/search": {
+            "href": "https://api.amctheatres.com/v1/search",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/personalized-movies-now-playing": {
+            "href": "https://api.amctheatres.com/v2/amc-accounts/{amc-account-id}/personalized-movies/views/now-playing",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/personalized-movies-advance": {
+            "href": "https://api.amctheatres.com/v2/amc-accounts/{amc-account-id}/personalized-movies/views/advance",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/personalized-movies-coming-soon": {
+            "href": "https://api.amctheatres.com/v2/amc-accounts/{amc-account-id}/personalized-movies/views/coming-soon",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/personalized-showtimes": {
+            "href": "https://api.amctheatres.com/v2/amc-accounts/{amc-account-id}/personalized-movies/theatres/{theatre-id}/showtimes/{date}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/theatre-scheduled-dates": {
+            "href": "https://api.amctheatres.com/v2/theatres/{theatre-id}/showtimes/scheduled-dates",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/theatre-health": {
+            "href": "https://api.amctheatres.com/v1/theatres/{theatre-id}/health",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/upcoming-events": {
+            "href": "https://api.amctheatres.com/v1/amc-accounts/{amc-account-id}/events/views/upcoming",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/past-events": {
+            "href": "https://api.amctheatres.com/v1/amc-accounts/{amc-account-id}/events/views/past",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event": {
+            "href": "https://api.amctheatres.com/v1/events/{event-token}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/emails": {
+            "href": "https://api.amctheatres.com/v1/emails",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/emails/receipt": {
+            "href": "https://api.amctheatres.com/v1/emails/receipt",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/seating-layouts": {
+            "href": "https://api.amctheatres.com/v2/seating-layouts/{theatre-id}/{performance-number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/seating-layouts": {
+            "href": "https://api.amctheatres.com/v3/seating-layouts/{theatre-id}/{performance-number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/push-notifications": {
+            "href": "https://api.amctheatres.com/v1/push-notifications",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/push-notifications/batch/device-application-ids": {
+            "href": "https://api.amctheatres.com/v1/push-notifications/batch/device-application-ids",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/push-notifications/batch/details": {
+            "href": "https://api.amctheatres.com/v1/push-notifications/batch/details",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/profile-questions/genres": {
+            "href": "https://api.amctheatres.com/v3/profile-questions/genres",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/profile-questions/cast-crew": {
+            "href": "https://api.amctheatres.com/v3/profile-questions/cast-crew/{jobCode}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/profile-questions/amenities": {
+            "href": "https://api.amctheatres.com/v3/profile-questions/amenities/{groupCode}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/refund-windows": {
+            "href": "https://api.amctheatres.com/v1/refund-windows",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/will-call-check": {
+            "href": "https://api.amctheatres.com/v1/orders/token-{token}/will-call-check",
+            "templated": true
+        },
+        "https://api.amctheaters.com/rels/v1/disney-rewards-payment-authorizations": {
+            "href": "https://api.amctheatres.com/v1/disney-rewards/payment-authorizations",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/promotion": {
+            "href": "https://api.amctheatres.com/v1/promotions/{promotion-id}",
+            "templated": true
+        },
+        "https://api.amctheaters.com/rels/v1/promotions": {
+            "href": "https://api.amctheatres.com/v1/promotions",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/promotion/associations": {
+            "href": "https://api.amctheatres.com/v1/promotions/{promotion-id}/associations/{resource-type}/{resource-id}",
+            "templated": true
+        },
+        "https://api.amctheaters.com/rels/v1/promotions/call-to-action": {
+            "href": "https://api.amctheatres.com/v1/promotions/calls-to-action/{call-to-action-id}",
+            "templated": true
+        },
+        "https://api.amctheaters.com/rels/v1/promotions/calls-to-action": {
+            "href": "https://api.amctheatres.com/v1/promotions/calls-to-action",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/promotions/types": {
+            "href": "https://api.amctheatres.com/v1/promotions/types",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/promotions/views/current": {
+            "href": "https://api.amctheatres.com/v1/promotions/views/current",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/promotions/calls-to-action/types": {
+            "href": "https://api.amctheatres.com/v1/promotions/calls-to-action/types",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/promotions/loyalty-tiers": {
+            "href": "https://api.amctheatres.com/v1/promotions/{promotion-id}/loyalty-tiers/{loyalty-tier-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/amc-accounts/enroll-cast": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/enroll-cast",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/on-demand-product": {
+            "href": "https://api.amctheatres.com/v1/on-demand-products/{on-demand-product-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/on-demand-products/price-plans ": {
+            "href": "https://api.amctheatres.com//v1/on-demand-products/{on-demand-product-id}/price-plans/{price-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movies/on-demand-products": {
+            "href": "https://api.amctheatres.com/v1/movies/{movie-id}/on-demand-products",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/on-demand-products": {
+            "href": "https://api.amctheatres.com/v1/on-demand-products",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/amc-accounts/on-demand-products": {
+            "href": "https://api.amctheatres.com/v1/amc-accounts/{account-id}/on-demand-products/{on-demand-product-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/amc-accounts/movies/on-demand-products": {
+            "href": "https://api.amctheatres.com/v1/amc-accounts/{account-id}/movies/{movie-id}/on-demand-products",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/amc-accounts/on-demand-products/price-plans ": {
+            "href": "https://api.amctheatres.com/v1/amc-accounts/{account-id}/on-demand-products/{on-demand-product-id}/price-plans/{price-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/amc-accounts/on-demand-sessions": {
+            "href": "https://api.amctheatres.com/v1/amc-accounts/{account-id}/on-demand-sessions",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/address-suggestions": {
+            "href": "https://api.amctheatres.com/v1/address-suggestions",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-campaign-registration": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/loyalty/campaign-registration",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/account-by-subscriber-guid": {
+            "href": "https://api.amctheatres.com/v3/amc-accounts/subscriber-guid-{subscriber-guid}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/trailers-by-showtime": {
+            "href": "https://api.amctheatres.com/v1/showtimes/{showtime-id}/trailers",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/friend-by-invitation-token": {
+            "href": "https://api.amctheatres.com/v1/friend-invitation/{invitationToken}/inviter",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/order-groups": {
+            "href": "https://api.amctheatres.com/v1/order-groups",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/voucher": {
+            "href": "https://api.amctheatres.com/v1/voucher/token-{voucherToken}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/product-subscriptions-terms-and-conditions": {
+            "href": "https://api.amctheatres.com/v2/product-subscriptions/{product-type-code}/theatres/{theatre-id}/terms-and-conditions/latest",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/product-subscription-by-card": {
+            "href": "https://api.amctheatres.com/v2/loyalty-cards/{loyalty-card-number}/product-subscriptions",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/product-subscription-transfer-eligibility": {
+            "href": "https://api.amctheatres.com/v2/loyalty-cards/{loyalty-card-number}/theatres/{theatre-id}/transfer-eligibility",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/product-subscription-discount-eligibility": {
+            "href": "https://api.amctheatres.com/v2/loyalty-cards/{loyalty-card-number}/discount-eligibility",
+            "templated": true
+        }
+    }
+}
+
+
+
+
+
+{
+    "motd": "Welcome to the AMC Theatres API. It's currently 2/5/2023 11:31:12 PM",
+    "_links": {
+        "self": {
+            "href": "https://api.sandbox.amctheatres.com/",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/attributes": {
+            "href": "https://api.sandbox.amctheatres.com/v1/attributes",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/movie": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/{movie-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/movies": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/now-playing-movies": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/views/now-playing",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/coming-soon-movies": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/views/coming-soon",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/advance-movies": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/views/advance",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/active-movies": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/views/active",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/all-active-movies": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/views/all/active",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/top-10-grossing-movies": {
+            "href": "https://api.sandbox.amctheatres.com/v2/movies/views/top-10-grossing",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/locations": {
+            "href": "https://api.sandbox.amctheatres.com/v2/locations?longitude={longitude}&latitude={latitude}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/location-suggestions": {
+            "href": "https://api.sandbox.amctheatres.com/v2/location-suggestions?query={query}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/showtimes": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/{theatre-id}/showtimes/{date}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/showtime": {
+            "href": "https://api.sandbox.amctheatres.com/v2/showtimes/{showtime-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/earliest-showtime": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/{theatre-id}/movies/{movie-id}/earliest-showtime",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/showtimes/embargoed": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/{theatre-id}/showtimes/{date}/views/embargoed",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/theatres": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/theatre": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/{theatre-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/theatre-list-builder": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/views/list-builder",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/theatres-now-playing-wwm-release-number": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/views/now-playing/wwm-release-number/{wwm-release-number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/content-types": {
+            "href": "https://api.sandbox.amctheatres.com/v2/media/{media-type}/content-types",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/media-sizes": {
+            "href": "https://api.sandbox.amctheatres.com/v2/media/{media-type}/sizes",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/medium": {
+            "href": "https://api.sandbox.amctheatres.com/v2/media/{media-type}/{media-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/media": {
+            "href": "https://api.sandbox.amctheatres.com/v2/media/{media-type}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/expired-videos": {
+            "href": "https://api.sandbox.amctheatres.com/v2/media/videos/views/expired",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/orders": {
+            "href": "https://api.sandbox.amctheatres.com/v3/orders",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/order": {
+            "href": "https://api.sandbox.amctheatres.com/v3/orders/{order-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/order-email-lookup": {
+            "href": "https://api.sandbox.amctheatres.com/v3/orders/{order-id}/email-{email}/",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/account-orders": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/{amc-account-id}/orders",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/virtual-gift-cards": {
+            "href": "https://api.sandbox.amctheatres.com/v3/virtual-gift-cards/token-{token}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/gift-card": {
+            "href": "https://api.sandbox.amctheatres.com/v3/gift-cards/{number}/{pin}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/gift-card-passbook": {
+            "href": "https://api.sandbox.amctheatres.com/v3/gift-cards/{number}/{pin}/passbook",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/gift-card-passbook-by-token": {
+            "href": "https://api.sandbox.amctheatres.com/v3/gift-cards/gift-card-{token}/passbook",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/qr-code": {
+            "href": "https://api.sandbox.amctheatres.com/v3/qr-codes/{qr-code-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/code128": {
+            "href": "https://api.sandbox.amctheatres.com/v3/code128/{encryptedReferenceId}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/wallet": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/{amc-account-id}/wallet",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/wallet": {
+            "href": "https://api.sandbox.amctheatres.com/v4/amc-accounts/{amc-account-id}/wallet",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-cards": {
+            "href": "https://api.sandbox.amctheatres.com/v3/loyalty-cards/{number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/product": {
+            "href": "https://api.sandbox.amctheatres.com/v3/products/{sku}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/products": {
+            "href": "https://api.sandbox.amctheatres.com/v3/products/{sku}/theatres/{theatreNumber}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/voucher-products": {
+            "href": "https://api.sandbox.amctheatres.com/v3/products/vouchers",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/theatre-subscriptions": {
+            "href": "https://api.sandbox.amctheatres.com/v3/theatres/{theatreNumber}/products/subscriptions",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/order-summaries": {
+            "href": "https://api.sandbox.amctheatres.com/v3/order-summaries",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/markets": {
+            "href": "https://api.sandbox.amctheatres.com/v1/markets",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/states": {
+            "href": "https://api.sandbox.amctheatres.com/v1/states",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/state": {
+            "href": "https://api.sandbox.amctheatres.com/v1/states/{state-slug}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/reminder": {
+            "href": "https://api.sandbox.amctheatres.com/v1/amc-accounts/{amc-account-id}/reminders/{movie-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/reminders": {
+            "href": "https://api.sandbox.amctheatres.com/v1/amc-accounts/{amc-account-id}/reminders",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/reminders-not-in-theatres": {
+            "href": "https://api.sandbox.amctheatres.com/v1/amc-accounts/{amc-account-id}/reminders/views/not-in-theatres",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/reminders-coming-soon": {
+            "href": "https://api.sandbox.amctheatres.com/v1/amc-accounts/{amc-account-id}/reminders/views/coming-soon",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/reminders-now-playing": {
+            "href": "https://api.sandbox.amctheatres.com/v1/amc-accounts/{amc-account-id}/reminders/views/now-playing",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/subscriptions": {
+            "href": "https://api.sandbox.amctheatres.com/v2/subscriptions",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/subscription-enrollment": {
+            "href": "https://api.sandbox.amctheatres.com/v2/subscriptions/{subscription-name}/{channel-type}/{contact-identifier}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/authentication-oauth": {
+            "href": "https://api.sandbox.amctheatres.com/v2/authentication/oauth",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/authentication-basic": {
+            "href": "https://api.sandbox.amctheatres.com/v2/authentication/basic",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/password-reset": {
+            "href": "https://api.sandbox.amctheatres.com/v2/amc-accounts/email-{email}/password-resets",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/password-change": {
+            "href": "https://api.sandbox.amctheatres.com/v2/password-changes",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/account-providers": {
+            "href": "https://api.sandbox.amctheatres.com/v2/providers",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/current-alias": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/{amc-account-id}/aliases/current",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/alias": {
+            "href": "https://api.sandbox.amctheatres.com/v3/aliases/{name}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/product-subscription-cancellation-reasons": {
+            "href": "https://api.sandbox.amctheatres.com/v2/product-subscriptions/cancellation-reasons",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/amc-account/product-subscription-premiere-enroll": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/{amc-account-id}/product-subscriptions/PREMIERE",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/product-subscriptions-terms-and-conditions": {
+            "href": "https://api.sandbox.amctheatres.com/v3/product-subscriptions/{product-type-code}/theatres/{theatre-id}/terms-and-conditions/latest",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/product-subscription-by-card": {
+            "href": "https://api.sandbox.amctheatres.com/v3/loyalty-cards/{loyalty-card-number}/product-subscriptions",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/product-subscription-transfer-eligibility": {
+            "href": "https://api.sandbox.amctheatres.com/v3/loyalty-cards/{loyalty-card-number}/theatres/{theatre-id}/transfer-eligibility",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/product-subscription-discount-eligibility": {
+            "href": "https://api.sandbox.amctheatres.com/v3/loyalty-cards/{loyalty-card-number}/discount-eligibility",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/product-subscription-cancellation-reasons": {
+            "href": "https://api.sandbox.amctheatres.com/v3/product-subscriptions/cancellation-reasons",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-account": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/{amc-account-id}/loyalty",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/loyalty-account": {
+            "href": "https://api.sandbox.amctheatres.com/v4/amc-accounts/{amc-account-id}/loyalty",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/email-address": {
+            "href": "https://api.sandbox.amctheatres.com/v4/email-addresses/{email-address}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-card-validations": {
+            "href": "https://api.sandbox.amctheatres.com/v3/loyalty-cards/validations",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v4/loyalty-card-validations": {
+            "href": "https://api.sandbox.amctheatres.com/v4/loyalty-cards/validations",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/email-address-by-card-number": {
+            "href": "https://api.sandbox.amctheatres.com/v3/email-addresses?card-number={card-number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/email-address-by-card-number": {
+            "href": "https://api.sandbox.amctheatres.com/v4/email-addresses?card-number={card-number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/stub": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/{amc-account-id}/loyalty/stubs/{sequence}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/stub": {
+            "href": "https://api.sandbox.amctheatres.com/v4/amc-accounts/{amc-account-id}/loyalty/stubs/{sequence}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/stubs": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/{amc-account-id}/loyalty/stubs?page-number={page-number}&page-size={page-size}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/stubs": {
+            "href": "https://api.sandbox.amctheatres.com/v4/amc-accounts/{amc-account-id}/loyalty/stubs?page-number={page-number}&page-size={page-size}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-account-qr-code": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/{amc-account-id}/loyalty/qr-code",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/loyalty-account-qr-code": {
+            "href": "https://api.sandbox.amctheatres.com/v4/amc-accounts/{amc-account-id}/loyalty/qr-code",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-account-jwt": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/{amc-account-id}/loyalty/jwt",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/loyalty-account-jwt": {
+            "href": "https://api.sandbox.amctheatres.com/v4/amc-accounts/{amc-account-id}/loyalty/jwt",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-card": {
+            "href": "https://api.sandbox.amctheatres.com/v3/loyalty-cards/{number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/loyalty-card": {
+            "href": "https://api.sandbox.amctheatres.com/v4/loyalty-cards/{number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/loyalty-tiers": {
+            "href": "https://api.sandbox.amctheatres.com/v4/loyalty-tiers",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/all-concessions": {
+            "href": "https://api.sandbox.amctheatres.com/v1/concessions",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/concession": {
+            "href": "https://api.sandbox.amctheatres.com/v1/concessions/{theatre-product-assignment-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/concessions": {
+            "href": "https://api.sandbox.amctheatres.com/v1/theatres/{theatre-id}/concessions/",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/theatre-concession": {
+            "href": "https://api.sandbox.amctheatres.com/v1/theatres/{theatre-id}/concessions/{concession-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movie-lists": {
+            "href": "https://api.sandbox.amctheatres.com/v1/movie-lists",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/events": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/events",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/events/{event-id}": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/events/{event-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/organizations": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/organizations",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/organizations/{organization-id}": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/organizations/{organization-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/contacts": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/contacts",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/contacts/{contact-id}": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/contacts/{contact-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/theatres": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/theatres",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/theatres/{theatre-id}": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/theatres/{theatre-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-items": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/event-items",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-items/{event-item-id}": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/event-items/{event-item-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/dmas": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/dmas",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/dmas/suggestions": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/dmas/suggestions?q={query}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/theatres/suggestions": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/theatres/suggestions?q={query}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/title-traits": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/title-traits",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/show-flow-types": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/show-flow-types",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-statuses": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/event-statuses",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-payment-statuses": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/event-payment-statuses",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-subtypes": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/event-subtypes",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-types": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/event-types",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/dayparts": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/dayparts",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/billing-line-item-types": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/billing-line-item-types",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-item-categories": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/event-item-categories",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-contact-role-types": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/event-contact-role-types",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/countries": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/countries",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/document-types": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/document-types",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/event-allowed-statuses": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/event-allowed-statuses",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/film-booking": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/film-booking?title-id={titleId}&theatre-ids={theatreIds}&dma-ids={dmaIds}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/location-event-statuses": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/location-event-statuses",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/states": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/states",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/event-booking/titles/suggestions": {
+            "href": "https://api.sandbox.amctheatres.com/v1/event-booking/titles/suggestions?q={query}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movie-lists/views/NowPlaying": {
+            "href": "https://api.sandbox.amctheatres.com/v1/movie-lists/views/NowPlaying",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movie-lists/views/AdvanceTickets": {
+            "href": "https://api.sandbox.amctheatres.com/v1/movie-lists/views/AdvanceTickets",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movie-lists/views/ComingSoon": {
+            "href": "https://api.sandbox.amctheatres.com/v1/movie-lists/views/ComingSoon",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movie-list": {
+            "href": "https://api.sandbox.amctheatres.com/v1/movie-lists/{movieListId}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/concessions-categories": {
+            "href": "https://api.sandbox.amctheatres.com/v1/theatres/{theatre-id}/concessions/categories",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/concessions-pickup-times": {
+            "href": "https://api.sandbox.amctheatres.com/v1/theatres/{theatre-id}/concessions/pickup-times/{year}/{month}/{day}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/concessions-pickup-times-by-showtime": {
+            "href": "https://api.sandbox.amctheatres.com/v1/showtimes/{showtime-id}/concession-pickup-times",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/concessions-delivery-locations": {
+            "href": "https://api.sandbox.amctheatres.com/v1/theatres/{theatre-id}/concessions/delivery-locations/{year}/{month}/{day}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/concessions-delivery-times": {
+            "href": "https://api.sandbox.amctheatres.com/v1/showtimes/{showtime-id}/concession-delivery-times",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/amc-accounts": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/amc-account": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/{account-identifier}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/terms-and-conditions": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/loyalty/terms-and-conditions/latest/{membershipType}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v4/terms-and-conditions": {
+            "href": "https://api.sandbox.amctheatres.com/v4/amc-accounts/loyalty/terms-and-conditions/latest/{membership-type}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/amc-account/synchronize": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/{account-identifier}/synchronize",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/subscriber-profile/synchronize": {
+            "href": "https://api.sandbox.amctheatres.com/v3/subscriber-profiles/{profile-id}/synchronize",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/subscriptions/synchronize": {
+            "href": "https://api.sandbox.amctheatres.com/v2/subscriptions/synchronize/{email}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/subscriber-profiles": {
+            "href": "https://api.sandbox.amctheatres.com/v2/subscriber-profiles",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/subscriber-profiles/ids": {
+            "href": "https://api.sandbox.amctheatres.com/v3/subscriber-profiles/ids",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/movies/ratings": {
+            "href": "https://api.sandbox.amctheatres.com/v1/movies/{movie-id}/ratings",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movies/peetimes": {
+            "href": "https://api.sandbox.amctheatres.com/v1/movies/{movie-id}/peetimes",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movies/peetime": {
+            "href": "https://api.sandbox.amctheatres.com/v1/movies/{movie-id}/peetimes/{pee-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/sms-messages": {
+            "href": "https://api.sandbox.amctheatres.com/v1/sms-messages",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/sms-template": {
+            "href": "https://api.sandbox.amctheatres.com//v1/sms-templates/{template-name}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/sms-templates": {
+            "href": "https://api.sandbox.amctheatres.com//v1/sms-templates",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/amc-account/passbook": {
+            "href": "https://api.sandbox.amctheatres.com/v1/amc-accounts/{amc-account-id}/passbook",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/exceptions": {
+            "href": "https://api.sandbox.amctheatres.com/v1/exceptions",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/logs": {
+            "href": "https://api.sandbox.amctheatres.com/v1/logs",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/devices": {
+            "href": "https://api.sandbox.amctheatres.com/v1/devices/{device-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/convenience-fees": {
+            "href": "https://api.sandbox.amctheatres.com/v2/convenience-fees",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/fee-waiver": {
+            "href": "https://api.sandbox.amctheatres.com/v1/fee-waiver",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/fee-waiver": {
+            "href": "https://api.sandbox.amctheatres.com/v2/fee-waiver",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/webhook-events": {
+            "href": "https://api.sandbox.amctheatres.com/v1/webhook-events",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/webhooks": {
+            "href": "https://api.sandbox.amctheatres.com/v1/webhooks",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/cast-crew": {
+            "href": "https://api.sandbox.amctheatres.com/v1/movie/{movie-id}/cast-crew",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/search-result-types": {
+            "href": "https://api.sandbox.amctheatres.com/v1/search/result-types",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/search": {
+            "href": "https://api.sandbox.amctheatres.com/v1/search",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/personalized-movies-now-playing": {
+            "href": "https://api.sandbox.amctheatres.com/v2/amc-accounts/{amc-account-id}/personalized-movies/views/now-playing",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/personalized-movies-advance": {
+            "href": "https://api.sandbox.amctheatres.com/v2/amc-accounts/{amc-account-id}/personalized-movies/views/advance",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/personalized-movies-coming-soon": {
+            "href": "https://api.sandbox.amctheatres.com/v2/amc-accounts/{amc-account-id}/personalized-movies/views/coming-soon",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/personalized-showtimes": {
+            "href": "https://api.sandbox.amctheatres.com/v2/amc-accounts/{amc-account-id}/personalized-movies/theatres/{theatre-id}/showtimes/{date}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/theatre-scheduled-dates": {
+            "href": "https://api.sandbox.amctheatres.com/v2/theatres/{theatre-id}/showtimes/scheduled-dates",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/theatre-health": {
+            "href": "https://api.sandbox.amctheatres.com/v1/theatres/{theatre-id}/health",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/upcoming-events": {
+            "href": "https://api.sandbox.amctheatres.com/v1/amc-accounts/{amc-account-id}/events/views/upcoming",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/past-events": {
+            "href": "https://api.sandbox.amctheatres.com/v1/amc-accounts/{amc-account-id}/events/views/past",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/event": {
+            "href": "https://api.sandbox.amctheatres.com/v1/events/{event-token}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/emails": {
+            "href": "https://api.sandbox.amctheatres.com/v1/emails",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/emails/receipt": {
+            "href": "https://api.sandbox.amctheatres.com/v1/emails/receipt",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v2/seating-layouts": {
+            "href": "https://api.sandbox.amctheatres.com/v2/seating-layouts/{theatre-id}/{performance-number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/seating-layouts": {
+            "href": "https://api.sandbox.amctheatres.com/v3/seating-layouts/{theatre-id}/{performance-number}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/push-notifications": {
+            "href": "https://api.sandbox.amctheatres.com/v1/push-notifications",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/push-notifications/batch/device-application-ids": {
+            "href": "https://api.sandbox.amctheatres.com/v1/push-notifications/batch/device-application-ids",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/push-notifications/batch/details": {
+            "href": "https://api.sandbox.amctheatres.com/v1/push-notifications/batch/details",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/profile-questions/genres": {
+            "href": "https://api.sandbox.amctheatres.com/v3/profile-questions/genres",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/profile-questions/cast-crew": {
+            "href": "https://api.sandbox.amctheatres.com/v3/profile-questions/cast-crew/{jobCode}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/profile-questions/amenities": {
+            "href": "https://api.sandbox.amctheatres.com/v3/profile-questions/amenities/{groupCode}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/refund-windows": {
+            "href": "https://api.sandbox.amctheatres.com/v1/refund-windows",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/will-call-check": {
+            "href": "https://api.sandbox.amctheatres.com/v1/orders/token-{token}/will-call-check",
+            "templated": true
+        },
+        "https://api.amctheaters.com/rels/v1/disney-rewards-payment-authorizations": {
+            "href": "https://api.sandbox.amctheatres.com/v1/disney-rewards/payment-authorizations",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/promotion": {
+            "href": "https://api.sandbox.amctheatres.com/v1/promotions/{promotion-id}",
+            "templated": true
+        },
+        "https://api.amctheaters.com/rels/v1/promotions": {
+            "href": "https://api.sandbox.amctheatres.com/v1/promotions",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/promotion/associations": {
+            "href": "https://api.sandbox.amctheatres.com/v1/promotions/{promotion-id}/associations/{resource-type}/{resource-id}",
+            "templated": true
+        },
+        "https://api.amctheaters.com/rels/v1/promotions/call-to-action": {
+            "href": "https://api.sandbox.amctheatres.com/v1/promotions/calls-to-action/{call-to-action-id}",
+            "templated": true
+        },
+        "https://api.amctheaters.com/rels/v1/promotions/calls-to-action": {
+            "href": "https://api.sandbox.amctheatres.com/v1/promotions/calls-to-action",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/promotions/types": {
+            "href": "https://api.sandbox.amctheatres.com/v1/promotions/types",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/promotions/views/current": {
+            "href": "https://api.sandbox.amctheatres.com/v1/promotions/views/current",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/promotions/calls-to-action/types": {
+            "href": "https://api.sandbox.amctheatres.com/v1/promotions/calls-to-action/types",
+            "templated": false
+        },
+        "https://api.amctheaters.com/rels/v1/promotions/loyalty-tiers": {
+            "href": "https://api.sandbox.amctheatres.com/v1/promotions/{promotion-id}/loyalty-tiers/{loyalty-tier-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v3/amc-accounts/enroll-cast": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/enroll-cast",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/on-demand-product": {
+            "href": "https://api.sandbox.amctheatres.com/v1/on-demand-products/{on-demand-product-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/on-demand-products/price-plans ": {
+            "href": "https://api.sandbox.amctheatres.com//v1/on-demand-products/{on-demand-product-id}/price-plans/{price-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/movies/on-demand-products": {
+            "href": "https://api.sandbox.amctheatres.com/v1/movies/{movie-id}/on-demand-products",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/on-demand-products": {
+            "href": "https://api.sandbox.amctheatres.com/v1/on-demand-products",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/amc-accounts/on-demand-products": {
+            "href": "https://api.sandbox.amctheatres.com/v1/amc-accounts/{account-id}/on-demand-products/{on-demand-product-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/amc-accounts/movies/on-demand-products": {
+            "href": "https://api.sandbox.amctheatres.com/v1/amc-accounts/{account-id}/movies/{movie-id}/on-demand-products",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/amc-accounts/on-demand-products/price-plans ": {
+            "href": "https://api.sandbox.amctheatres.com/v1/amc-accounts/{account-id}/on-demand-products/{on-demand-product-id}/price-plans/{price-id}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/amc-accounts/on-demand-sessions": {
+            "href": "https://api.sandbox.amctheatres.com/v1/amc-accounts/{account-id}/on-demand-sessions",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/address-suggestions": {
+            "href": "https://api.sandbox.amctheatres.com/v1/address-suggestions",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/loyalty-campaign-registration": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/loyalty/campaign-registration",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v3/account-by-subscriber-guid": {
+            "href": "https://api.sandbox.amctheatres.com/v3/amc-accounts/subscriber-guid-{subscriber-guid}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/trailers-by-showtime": {
+            "href": "https://api.sandbox.amctheatres.com/v1/showtimes/{showtime-id}/trailers",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/friend-by-invitation-token": {
+            "href": "https://api.sandbox.amctheatres.com/v1/friend-invitation/{invitationToken}/inviter",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v1/order-groups": {
+            "href": "https://api.sandbox.amctheatres.com/v1/order-groups",
+            "templated": false
+        },
+        "https://api.amctheatres.com/rels/v1/voucher": {
+            "href": "https://api.sandbox.amctheatres.com/v1/voucher/token-{voucherToken}",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/product-subscriptions-terms-and-conditions": {
+            "href": "https://api.sandbox.amctheatres.com/v2/product-subscriptions/{product-type-code}/theatres/{theatre-id}/terms-and-conditions/latest",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/product-subscription-by-card": {
+            "href": "https://api.sandbox.amctheatres.com/v2/loyalty-cards/{loyalty-card-number}/product-subscriptions",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/product-subscription-transfer-eligibility": {
+            "href": "https://api.sandbox.amctheatres.com/v2/loyalty-cards/{loyalty-card-number}/theatres/{theatre-id}/transfer-eligibility",
+            "templated": true
+        },
+        "https://api.amctheatres.com/rels/v2/product-subscription-discount-eligibility": {
+            "href": "https://api.sandbox.amctheatres.com/v2/loyalty-cards/{loyalty-card-number}/discount-eligibility",
+            "templated": true
+        }
+    }
+}
+
+
+
+
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+    "has_more": false,
+    "num_results": 10,
+    "results": [
+        {
+            "display_title": "The Black Godfather",
+            "mpaa_rating": "TV-MA",
+            "critics_pick": 0,
+            "byline": "BEN KENIGSBERG",
+            "headline": "‘The Black Godfather’ Review: The Music Executive Who Made It All Happen",
+            "summary_short": "Reginald Hudlin’s documentary about Clarence Avant includes many golden anecdotes.",
+            "publication_date": "2019-06-06",
+            "opening_date": "2019-06-07",
+            "date_updated": "2019-06-14 16:44:01",
+            "link": {
+                "type": "article",
+                "url": "https://www.nytimes.com/2019/06/06/movies/the-black-godfather-review.html",
+                "suggested_link_text": "Read the New York Times Review of The Black Godfather"
+            },
+            "multimedia": {
+                "type": "mediumThreeByTwo210",
+                "src": "https://static01.nyt.com/images/2019/06/05/arts/blackgodfather1/blackgodfather1-mediumThreeByTwo210.jpg",
+                "height": 140,
+                "width": 210
+            }
+        },
+        {
+            "display_title": "Square Grouper: The Godfathers of Ganja",
+            "mpaa_rating": "R",
+            "critics_pick": 0,
+            "byline": "RACHEL SALTZ",
+            "headline": "Adventures in the Drug Trades",
+            "summary_short": "“Square Grouper” is a documentary about pot smuggling in South Florida in the 1970s and ’80s.",
+            "publication_date": "2011-04-14",
+            "opening_date": "2011-04-15",
+            "date_updated": "2017-11-02 04:18:13",
+            "link": {
+                "type": "article",
+                "url": "https://www.nytimes.com/2011/04/15/movies/square-grouper-movie-review.html",
+                "suggested_link_text": "Read the New York Times Review of Square Grouper: The Godfathers of Ganja"
+            },
+            "multimedia": null
+        },
+        {
+            "display_title": "Tokyo Godfathers",
+            "mpaa_rating": "PG-13",
+            "critics_pick": 1,
+            "byline": "A. O. Scott",
+            "headline": "Three Down-and-Outs Rescue a Foundling From the Trash",
+            "summary_short": "Another marvel from Satoshi Kon, whose first two films, \u0026quot;Perfect Blue\u0026quot; and \u0026quot;Millennium Actress,\u0026quot; have already pushed Japanese feature-length animation toward greater realism and wilder fantasy. Loosely based on \u0026quot;3 Godfathers,\u0026quot; John Ford's maudlin 1948 western, this movie, a sweet fable of decency amid the down and out, also has echoes of Chaplin and Capra. Three homeless people — an embittered alcoholic, a middle-aged transvestite and a teenage runaway — find an abandoned baby on Christmas Eve. As they try to reunite the foundling with her parents, they revisit their own unhappy lives, and travel through a city rendered with unbelievable precision and tinted with undeniable love. The potentially sticky sentiments of the story are balanced by a crazily inventive narrative and by Mr. Kon's cool, obsessively detailed visual style. At the end, the skyscrapers of Tokyo wriggle and dance to a Japanese-language techno version of Beethoven's \u0026quot;Ode to Joy,\u0026quot; which pretty much sums up this indescribable, unforgettable movie. — A. O. Scott",
+            "publication_date": "2004-01-16",
+            "opening_date": null,
+            "date_updated": "2017-11-02 04:16:23",
+            "link": {
+                "type": "article",
+                "url": "https://www.nytimes.com/2004/01/16/movies/film-review-three-down-outs-rescue-foundling-trash-anyone-have-pacifier.html",
+                "suggested_link_text": "Read the New York Times Review of Tokyo Godfathers"
+            },
+            "multimedia": null
+        },
+        {
+            "display_title": "The Godfather, Part III",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "Janet Maslin",
+            "headline": "GODFATHER PART III (MOVIE)",
+            "summary_short": "Mafia heir trapped by legacy of past. Coppola's director's cut. Deeply moving.",
+            "publication_date": "1990-12-25",
+            "opening_date": "1990-12-25",
+            "date_updated": "2017-11-02 04:17:42",
+            "link": {
+                "type": "article",
+                "url": "https://www.nytimes.com/1990/12/25/movies/review-film-the-corleones-try-to-go-straight-in-the-godfather-part-iii.html",
+                "suggested_link_text": "Read the New York Times Review of The Godfather, Part III"
+            },
+            "multimedia": null
+        },
+        {
+            "display_title": "The Godfather, Part II",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "VINCENT CANBY",
+            "headline": "Godfather: Part II, The (Movie)",
+            "summary_short": "",
+            "publication_date": "1974-12-13",
+            "opening_date": "1974-12-20",
+            "date_updated": "2017-11-02 04:17:27",
+            "link": {
+                "type": "article",
+                "url": "https://www.nytimes.com/1974/12/13/archives/godfather-part-ii-is-hard-to-define-the-cast.html",
+                "suggested_link_text": "Read the New York Times Review of The Godfather, Part II"
+            },
+            "multimedia": null
+        },
+        {
+            "display_title": "The Black Godfather",
+            "mpaa_rating": "R",
+            "critics_pick": 0,
+            "byline": "NORA SAYRE",
+            "headline": "Black Godfather, The (Movie)",
+            "summary_short": "",
+            "publication_date": "1974-09-04",
+            "opening_date": null,
+            "date_updated": "2017-11-02 04:16:03",
+            "link": {
+                "type": "article",
+                "url": "https://www.nytimes.com/1974/09/04/archives/screen-drug-traffickers-vie-in-black-godfather.html",
+                "suggested_link_text": "Read the New York Times Review of The Black Godfather"
+            },
+            "multimedia": null
+        },
+        {
+            "display_title": "The Godfather",
+            "mpaa_rating": "R",
+            "critics_pick": 1,
+            "byline": "Vincent Canby",
+            "headline": "THE GODFATHER (MOVIE)",
+            "summary_short": "Puzo's Mafioso novel. Scalding and memorable.",
+            "publication_date": "1972-03-16",
+            "opening_date": "1972-03-24",
+            "date_updated": "2017-11-02 04:17:26",
+            "link": {
+                "type": "article",
+                "url": "https://www.nytimes.com/1972/03/16/archives/moving-and-brutal-godfather-bows.html",
+                "suggested_link_text": "Read the New York Times Review of The Godfather"
+            },
+            "multimedia": null
+        },
+        {
+            "display_title": "Three Godfathers",
+            "mpaa_rating": "Passed",
+            "critics_pick": 0,
+            "byline": "BOSLEY CROWTHER",
+            "headline": "Three Godfathers",
+            "summary_short": "Outlaw trio and abandoned child. Typical, expert Ford western.",
+            "publication_date": "1949-03-04",
+            "opening_date": "1948-12-01",
+            "date_updated": "2017-11-02 04:17:11",
+            "link": {
+                "type": "article",
+                "url": "https://www.nytimes.com/1949/03/04/archives/the-screen-in-review-john-wayne-harry-carey-jr-in-three-godfathers.html",
+                "suggested_link_text": "Read the New York Times Review of Three Godfathers"
+            },
+            "multimedia": null
+        },
+        {
+            "display_title": "Miracle in the Sand",
+            "mpaa_rating": "Passed",
+            "critics_pick": 0,
+            "byline": "J.T.M.",
+            "headline": "Three Godfathers, The",
+            "summary_short": "Thieves reluctantly care for orphan. Tragic horse opera.",
+            "publication_date": "1936-03-09",
+            "opening_date": "1936-03-06",
+            "date_updated": "2017-11-02 04:16:58",
+            "link": {
+                "type": "article",
+                "url": "https://www.nytimes.com/1936/03/09/archives/at-the-rialto.html",
+                "suggested_link_text": "Read the New York Times Review of Miracle in the Sand"
+            },
+            "multimedia": null
+        },
+        {
+            "display_title": "El Compadre Mendoza",
+            "mpaa_rating": "",
+            "critics_pick": 0,
+            "byline": "Harry T. Smith",
+            "headline": "Compadre Mendoza, El",
+            "summary_short": "Landowner survives Mexican Revolution by supporting both sides. Directed by Fernando de Fuentes.",
+            "publication_date": "1934-11-19",
+            "opening_date": "1934-11-18",
+            "date_updated": "2017-11-02 04:16:55",
+            "link": {
+                "type": "article",
+                "url": "https://www.nytimes.com/1934/11/19/archives/a-mexican-tragedy.html",
+                "suggested_link_text": "Read the New York Times Review of El Compadre Mendoza"
+            },
+            "multimedia": null
+        }
+    ]
+}
