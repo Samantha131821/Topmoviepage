@@ -5,10 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/js/script.js" />
-    <link rel="stylesheet" href="/assets/css/style.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style-imdb.css" />
     <title>Top Movie Page</title>
 </head>
 
@@ -98,95 +95,76 @@
         </header>
 
 
-        <div class="content-grid">
-            <div id="title0" class="box">Title 0</div>
-            <div id="review0" class="box">Review 0</div>
-            <div id="title1" class="box">Title 1</div>
-            <div id="review1" class="box">Review 1</div>
-            <div id="title2" class="box">Title 2</div>
-            <div id="review2" class="box">Review 2</div>
-            <div id="title3" class="box">Title 3</div>
-            <div id="review3" class="box">Review 3</div>
-            <div id="title4" class="box">Title 4</div>
-            <div id="review4" class="box">Review 4</div>
-        </div>
-        
-        <ul class="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
-          <li>
-            <a href="#" class="block py-2 pl-3 pr-4 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white" aria-current="page">Home</a>
-          </li>
-          <li>
-            <a href="#" class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">About</a>
-          </li>
-          <li>
-            <a href="#" class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Services</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
-    </header>
 
 
-<div class="container">
   <a href="#" class="mt-10 mb-10 ml-auto mr-auto flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-3xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
-  <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src="assets/Untitled design.png" alt="image of movie">
+  <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" id='img0' src="assets/Untitled design.png" alt="image of movie">
   <div class="flex flex-col justify-between p-4 leading-normal">
-      <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Movie Title</h5>
-      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+      <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white" id="title0">Movie Title</h5>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="plot0">Plot</p>
+      <br>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="review0">Review</p>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="rating0">Rating</p>
   </div>
 </a>
-</div>
 
-<div class="container">
+
   <a href="#" class="mb-10 ml-auto mr-auto flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-3xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
-  <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src="assets/Untitled design.png" alt="image of movie">
+  <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" id='img1' src="assets/Untitled design.png" alt="image of movie">
   <div class="flex flex-col justify-between p-4 leading-normal">
-      <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Movie Title</h5>
-      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+      <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white" id="title1">Movie Title</h5>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="plot1">Plot</p>
+      <br>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="review1">Review</p>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="rating1">Rating</p>
   </div>
 </a>
-</div>
 
-<div class="container">
+
   <a href="#" class="mb-10 ml-auto mr-auto flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-3xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
-  <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src="assets/Untitled design.png" alt="image of movie">
+  <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" id='img2' src="assets/Untitled design.png" alt="image of movie">
   <div class="flex flex-col justify-between p-4 leading-normal">
-      <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Movie Title</h5>
-      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+      <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white" id="title2">Movie Title</h5>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="plot2">Plot</p>
+      <br>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="review2">Review</p>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="rating2">Rating</p>
   </div>
 </a>
-</div>
 
-<div class="container">
+
   <a href="#" class="mb-10 ml-auto mr-auto flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-3xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
-  <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src="assets/Untitled design.png" alt="image of movie">
+  <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" id='img3' src="assets/Untitled design.png" alt="image of movie">
   <div class="flex flex-col justify-between p-4 leading-normal">
-      <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Movie Title</h5>
-      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+      <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white" id="title3">Movie Title</h5>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="plot3">Plot</p>
+      <br>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="review3">Review</p>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="rating3">Rating</p>
   </div>
 </a>
-</div>
 
-<div class="container">
+
   <a href="#" class="mb-10 ml-auto mr-auto flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-3xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
-  <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src="assets/Untitled design.png" alt="image of movie">
+  <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" id='img4' src="assets/Untitled design.png" alt="image of movie">
   <div class="flex flex-col justify-between p-4 leading-normal">
-      <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Movie Title</h5>
-      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+      <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white" id="title4">Movie Title</h5>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="plot4">Plot</p>
+      <br>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="review4">Review</p>
+      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400" id="rating4">Rating</p>
   </div>
 </a>
-</div>
 
 
-        <footer>
 
-        </footer>
 
-    </main>
 
-    <script src="assets/js/imdb-api.js"></script>
+
+
+
     <script src="assets/js/script.js"></script>
+    <script src="assets/js/imdb-api.js"></script>
 </body>
 
 </html>
