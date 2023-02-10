@@ -16,3 +16,20 @@ fetch('https://imdb-api.com/API/AdvancedSearch/k_kf6u348l?user_rating=6.0,&relea
   })
 
   .catch(error => console.log('error', error));
+
+var fetchUrl = 'https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=avatar&api-key=HEot1qFM7Q0uXHMz4GJN00KpM4PuyyKv'
+
+  var options = {
+    method: 'GET',
+    redirect: 'follow'
+  };
+  
+  fetch(fetchUrl, options)
+    .then(response => response.json())
+    .then(data => {
+      console.log(data);
+      for (var i = 0; i < 1; i++) {
+        document.getElementById('review' + i).innerText = data.results[i].summary_short;
+      }
+    })
+    .catch(error => console.log('error', error));
