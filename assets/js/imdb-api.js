@@ -14,27 +14,5 @@ fetch('https://imdb-api.com/API/AdvancedSearch/k_kf6u348l?user_rating=6.0,&relea
       document.getElementById('rating' + i).innerText = 'IMDb '+result.results[i].imDbRating+' "'+result.results[i].contentRating+'"';
     }
   })
-  .then(result => {
-    const url = "https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=avatar&api-key=HEot1qFM7Q0uXHMz4GJN00KpM4PuyyKv";
-    const options = {
-      method: "GET",
-      headers: { "Accept": "application/json" },
-    };
-    fetch(url, options)
-      .then(response => response.json())
-      .then(data => {
-        console.log(data);
-        document.getElementById('review0').innerText = 'NY Times: '+data.results[0].summary_short;       
-      })
-
-
-
-
-
-
-
-      .catch(err => {console.error(err) });
-
-  })
 
   .catch(error => console.log('error', error));
