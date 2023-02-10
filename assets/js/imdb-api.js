@@ -17,8 +17,19 @@ fetch('https://imdb-api.com/API/AdvancedSearch/k_kf6u348l?user_rating=6.0,&relea
 
   .catch(error => console.log('error', error));
 
-var fetchUrl = 'https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=avatar&api-key=HEot1qFM7Q0uXHMz4GJN00KpM4PuyyKv'
 
+  var elements = [];
+
+for(var i = 1; i <= 5; i++) {
+  var id = "title" + i;
+  elements.push(document.getElementById('title'));
+}
+
+
+elements.forEach(movie => {
+  console.log(movie);
+  var fetchUrl = 'https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=' + movie + '&api-key=HEot1qFM7Q0uXHMz4GJN00KpM4PuyyKv'
+  console.log(fetchUrl)
   var options = {
     method: 'GET',
     redirect: 'follow'
@@ -28,8 +39,26 @@ var fetchUrl = 'https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=
     .then(response => response.json())
     .then(data => {
       console.log(data);
-      for (var i = 0; i < 1; i++) {
+      for (var i = 0; i < 5; i++) {
         document.getElementById('review' + i).innerText = data.results[i].summary_short;
       }
     })
     .catch(error => console.log('error', error));
+})
+
+// var fetchUrl = 'https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=avatar&api-key=HEot1qFM7Q0uXHMz4GJN00KpM4PuyyKv'
+
+//   var options = {
+//     method: 'GET',
+//     redirect: 'follow'
+//   };
+  
+//   fetch(fetchUrl, options)
+//     .then(response => response.json())
+//     .then(data => {
+//       console.log(data);
+//       for (var i = 0; i < 1; i++) {
+//         document.getElementById('review' + i).innerText = data.results[i].summary_short;
+//       }
+//     })
+//     .catch(error => console.log('error', error));
