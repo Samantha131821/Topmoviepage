@@ -13,7 +13,6 @@ function getTitles(index, result) {
     document.getElementById('rating' + index).innerText = result.results[index].imDbRating;
     // Getting reviews from NYT API
     var fetchUrl = 'https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=' + result.results[index].title + '&api-key=HEot1qFM7Q0uXHMz4GJN00KpM4PuyyKv'
-    console.log(fetchUrl)
     var options = {
       method: 'GET',
       redirect: 'follow'
@@ -21,9 +20,7 @@ function getTitles(index, result) {
     fetch(fetchUrl, options)
       .then(response => response.json())
       .then(data => {
-        console.log(data);
-
-        console.log(index)
+        
         document.getElementById('review' + index).innerText = data.results[0].summary_short;
 
       })
@@ -36,7 +33,6 @@ function getTitles(index, result) {
 fetch('https://imdb-api.com/API/AdvancedSearch/k_kf6u348l?user_rating=6.0,&release_date=2022-08-01,&num_votes=3000,&groups=now-playing-us&countries=us&languages=en&sort=user_rating,desc', requestOptions)
   .then(response => response.json())
   .then(result => {
-    console.log(result);
     for (var i = 0; i < 5; i++) {
       getTitles(i, result)
     }
