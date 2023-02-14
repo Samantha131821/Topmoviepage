@@ -11,6 +11,16 @@ function getTitles(index, result) {
     document.getElementById('img' + index).setAttribute('src', result.results[index].image);
     document.getElementById('plot' + index).innerText = result.results[index].plot;
     document.getElementById('rating' + index).innerText = result.results[index].imDbRating;
+    var a = document.getElementById('indexCard' + index);
+
+    function storeId() {
+      console.log('clck');
+      localStorage.setItem('movieId', result.results[index].id);
+      console.log(result.results[index].id);
+    };
+
+    a.addEventListener('click', storeId);
+
     // Getting reviews from NYT API
     var fetchUrl = 'https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=' + result.results[index].title + '&api-key=HEot1qFM7Q0uXHMz4GJN00KpM4PuyyKv'
     var options = {
@@ -20,7 +30,7 @@ function getTitles(index, result) {
     fetch(fetchUrl, options)
       .then(response => response.json())
       .then(data => {
-        
+
         document.getElementById('review' + index).innerText = data.results[0].summary_short;
 
       })
@@ -36,6 +46,5 @@ fetch('https://imdb-api.com/API/AdvancedSearch/k_kf6u348l?user_rating=6.0,&relea
     for (var i = 0; i < 5; i++) {
       getTitles(i, result)
     }
-
   })
   .catch(error => console.log('error', error));
