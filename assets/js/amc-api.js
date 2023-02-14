@@ -6,7 +6,7 @@
 //AMC Your API Key is: 3DB399B0-1882-41A7-AEBB-4403C36E73AA
 
 
-/*
+
 var requestOptions = {
   method: 'GET',
   mode: 'no-cors',
@@ -23,4 +23,3 @@ fetch('https://api.amctheatres.com/v2/movies/views/now-playing', requestOptions)
     console.log(result);
     })
   .catch(error => console.log('error', error));
-*/
