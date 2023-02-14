@@ -29,10 +29,6 @@ fetch('https://imdb-api.com/API/AdvancedSearch/k_kf6u348l?user_rating=6.0,&relea
 
 
 
-
-
-
-
       .catch(err => {console.error(err) });
 
   })
