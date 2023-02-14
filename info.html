@@ -60,10 +60,10 @@
 
     <!-- card -->
     <a href="#" class="flex flex-col items-center mt-40 mb-40 mr-auto ml-auto bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-100 dark:bg-gray-100 dark:hover:bg-gray-200">
-        <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src="./assets/Theater.png" alt="">
+        <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" id="infoImg" src="./assets/Theater.png" alt="">
         <div class="flex flex-col justify-between p-4 leading-normal">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-black">Movie Name</h5>
-            <p class="mb-3 font-normal text-gray-700 dark:text-black">Description...</p>
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-black" id="infoTitle"></h5>
+            <p class="mb-3 font-normal text-gray-700 dark:text-black" id="infoPlot"></p>
         </div>
     </a>
 
@@ -72,9 +72,9 @@
    
 <div class="flex items-center mb-6">
     <svg aria-hidden="true" class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Rating star</title><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
-    <p class="ml-2 text-sm font-bold text-gray-900 dark:text-black">4.95</p>
+    <p class="ml-2 text-sm font-bold text-gray-900 dark:text-black" id="infoIMDbRating"></p>
     <span class="w-1 h-1 mx-1.5 bg-gray-500 rounded-full dark:bg-gray-400"></span>
-    <a href="#" class="text-sm font-medium text-gray-900 underline hover:no-underline dark:text-black">73 reviews</a>
+    <a href="#" class="text-sm font-medium text-gray-900 underline hover:no-underline dark:text-black" id="infoRating"></a>
     <span class="w-1 h-1 mx-1.5 bg-gray-500 rounded-full dark:bg-gray-400"></span>
     <a href="#" class="text-sm font-medium text-gray-900 underline hover:no-underline dark:text-black">IMDB</a>
     <span class="w-1 h-1 mx-1.5 bg-gray-500 rounded-full dark:bg-gray-400"></span>
@@ -82,8 +82,11 @@
 </div>
 
     <footer class="mb-5 text-sm text-gray-500 dark:text-black"><p>Reviewed in the United States on <time datetime="2023-02-13 19:00">February 13, 2023</time></p></footer>
-    <p class="mb-2 mr-20 font-light text-gray-500 dark:text-black">This is my third Invicta Pro Diver. They are just fantastic value for money. This one arrived yesterday and the first thing I did was set the time, popped on an identical strap from another Invicta and went in the shower with it to test the waterproofing.... No problems.</p>
-    <a href="#" class="block mb-5 text-sm font-medium text-blue-600 hover:underline dark:text-blue-500">Read more</a>
+
+    <p class="mb-2 mr-20 font-light text-gray-500 dark:text-black" id="infoStars"></p>
+    <p class="mb-2 mr-20 font-light text-gray-500 dark:text-black" id="infoNYtimes"></p>
+
+    <a href="" class="block mb-5 text-sm font-medium text-blue-600 hover:underline dark:text-blue-500" id="infoLink">Read more</a>
 </article>
 
 
@@ -107,7 +110,7 @@
             </ul>
         </footer>
         
-        <script src="assets/js/script.js"></script>
+        <script src="assets/js/info.js"></script>
      
     </body>
 
