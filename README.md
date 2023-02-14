@@ -1,4 +1,4 @@
-# Project1
+# Top Movie Page
 
 ## User Story
 As a user, I want to visit a website that shows me a list of top movies along with their ratings.
